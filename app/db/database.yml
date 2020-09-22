@@ -1,0 +1,7 @@
+database:
+    driver: pdo_mysql
+    host: localhost
+    port: null
+    name: cciq_cap
+    user: root
+    password: root
